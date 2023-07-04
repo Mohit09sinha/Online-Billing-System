@@ -1,0 +1,17 @@
+	       Welcome To Mohit & Nishant Mini Mall
+ Bill Number:6902 
+ Customer Name:Mohit Sinha 
+ Phone Number:8840800228
+ Customer Email:mohitsinha800@gmail.com
+=============================================
+ Products			Qty		Price
+=============================================
+Jack&Jones		1		2100
+Olay		1		125
+OnePlus1		1		125
+
+ =============================================
+ Sub Amount: 			Rs.2350.00 
+ Tax Amount: 			Rs.22.25 
+ Total Amount: 			Rs.2372.25 
+=============================================

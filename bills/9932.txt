@@ -1,0 +1,16 @@
+	       Welcome To Mohit & Nishant Mini Mall
+ Bill Number:9932 
+ Customer Name:yash verma 
+ Phone Number:84416515615
+ Customer Email:yash@487gmail
+=============================================
+ Products		Qty		Price
+=============================================
+Jasmine		1		125
+Samsung M21		1		15000
+
+ =============================================
+ Sub Amount: 			Rs.15125.00 
+ Tax Amount: 			Rs.1.25 
+ Total Amount: 			Rs.15126.25 
+=============================================

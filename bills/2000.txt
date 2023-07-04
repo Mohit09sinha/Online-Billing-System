@@ -1,0 +1,13 @@
+	       Welcome To Mohit & Nishant Mini Mall
+ Bill Number:2000 
+ Customer Name:hjhj 
+ Phone Number:ghjg
+ Customer Email:hjhj
+=============================================
+ Products			Qty		Price
+=============================================
+=============================================
+ Sub Amount: 			 
+ Tax Amount: 			 
+ Total Amount: 			 
+=============================================

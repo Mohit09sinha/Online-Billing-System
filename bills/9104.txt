@@ -1,0 +1,20 @@
+	       Welcome To Mohit & Nishant Mini Mall
+ Bill Number:9104 
+ Customer Name:John 
+ Phone Number:88487652145
+ Customer Email:mohit@gmail.com
+=============================================
+ Products		Qty		Price
+=============================================
+Roadster		1		1800
+Park Avenue		1		1800
+OnePlus3		1		45500
+Redmi_Pro		1		15000
+Parachute		1		175
+Jasmine		1		125
+
+ =============================================
+ Sub Amount: 			Rs.64400.00 
+ Tax Amount: 			Rs.642.75 
+ Total Amount: 			Rs.65042.75 
+=============================================

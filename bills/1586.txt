@@ -1,0 +1,18 @@
+	       Welcome To Mohit & Nishant Mini Mall
+ Bill Number:1586 
+ Customer Name:Mohit Si nha 
+ Phone Number:8840800228
+ Customer Email:mo@gmail.com
+=============================================
+ Products		Qty		Price
+=============================================
+Park Avenue		1		1800
+Jasmine		1		125
+Realme 13		1		22000
+OnePlus3		1		45500
+
+ =============================================
+ Sub Amount: 			Rs.69425.00 
+ Tax Amount: 			Rs.239.25 
+ Total Amount: 			Rs.69664.25 
+=============================================
