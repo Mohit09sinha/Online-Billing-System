@@ -3,7 +3,7 @@
 -ensured the preparation and billing of complex client invoices in compliance with firm policy<br>
 -helps the shopkeeper to save, print, edit or modify the bill easily.<br>
 
-Technology Used : Python, Tkinter, SQL, DBMS, Workbench, HTML, CSS
+Technology Used : Python, Tkinter, SQL, DBMS
 
 <h2>#Output</h2>
 
